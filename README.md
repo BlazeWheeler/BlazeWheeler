@@ -1,5 +1,5 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/ezgif-3-e9b60453ca.gif">
@@ -38,7 +38,7 @@
 
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
 ------
 
