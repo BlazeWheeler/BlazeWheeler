@@ -4,9 +4,9 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/ezgif-3-e9b60453ca.gif">
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
-
+<h1 align="center">I'm <a href="https://github.com/blazewheeler">Blaze Wheeler<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! 😎</h1>
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
