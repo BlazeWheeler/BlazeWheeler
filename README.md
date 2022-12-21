@@ -15,6 +15,14 @@
 
 - 🖥 I double major in **Computer Science** & **Cybersecurity**
 
+- 👨‍🔧 I’m currently learning Augmented & Virtual Filters using **SparkAR** & **Lens Studio**
+
+- 📱 I’m currently working on native mobile applications in **Swift** & **Kotlin**
+
+- 🧑🏼‍💻 Pronouns: He/Him
+
+- 🏒 Fun fact: **Student athlete**:  [Duquesne University Mens Ice Hockey](http://duquesnehockey.pointstreaksites.com/view/duquesnehockey/)
+
 
 - 📫 How to reach me **wheelerb2@duq.edu**
 
@@ -34,23 +42,3 @@
 
 ------
 
-
-
-
-
-
-
-<!--
-**BlazeWheeler/BlazeWheeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
