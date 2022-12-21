@@ -33,10 +33,10 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
 
@@ -94,28 +94,44 @@
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 ![Final Cut Pro X](https://img.shields.io/badge/Final%20Cut%20Pro%20X-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
-
-
- 
-
-
 </p>
 
 <br>
 <br>
 
------
+
 
 <br>
 
 
+<h1> Quote xD </h1>
 
+ ```sh
+
+bool dead = false;
+void goDeeper()
+{ 
+    if(dead == true)
+    { 
+       return 0; 
+    }
+    
+    goDeeper();
+}
+
+int main()
+{
+    goDeeper();
+}
+
+
+
+  ```
 
 
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
-------
+
 
