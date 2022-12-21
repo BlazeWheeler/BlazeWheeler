@@ -4,7 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/ezgif-3-e9b60453ca.gif">
 
-<h1 align="center">I'm <a href="https://github.com/blazewheeler">Blaze Wheeler<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/blazewheeler">Blaze Wheeler<a><img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 <!-- TROFEOS GITHUB -->
