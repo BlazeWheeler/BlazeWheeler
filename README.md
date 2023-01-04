@@ -2,8 +2,9 @@
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
+<div align="center">
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/ezgif-3-e9b60453ca.gif">
-
+</div>
 <h1 align="center">I'm <a href="https://github.com/blazewheeler">Blaze Wheeler<a><img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
