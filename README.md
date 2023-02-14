@@ -114,7 +114,7 @@ void goDeeper()
 { 
     if(dead == true)
     { 
-       return 0; 
+       return; 
     }
     
     goDeeper();
