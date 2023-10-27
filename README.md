@@ -64,6 +64,11 @@
    ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
    ![Tor](https://img.shields.io/badge/Tor-7D4698.svg?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000.svg?style=for-the-badge&logo=Splunk&logoColor=white)
+![VisualBasic](https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge&logo=Visual-Basic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 
 
