@@ -1,6 +1,16 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
+
+
+ ![Duq-badge](https://custom-icon-badges.demolab.com/badge/-Duquesne%20University-ba0c2f?style=for-the-badge&logo=duquesne_dukes_logo1)  ![CCAC-Badge](https://custom-icon-badges.demolab.com/badge/-Community%20College%20of%20Allegheny%20County-ba0c2f?style=for-the-badge&logo=ccac_red187)
+
+[![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
+[![MIT License][license-shield]][license-url]
+[![Apple License][Apple-License]][Apple-License-url]
+
+<img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
+
 <!-- GIF HEADER -->
 <div align="center">
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/ezgif-3-e9b60453ca.gif">
@@ -106,7 +116,8 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
-    
+	
+
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -138,7 +149,21 @@
 	![AdobeXD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 	![Final Cut Pro X](https://img.shields.io/badge/Final%20Cut%20Pro%20X-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+[Apple-License]: https://img.shields.io/badge/LICENSE-ASPL-999999?style=for-the-badge&logo=apple&logoColor=white
+[Apple-License-url]: https://opensource.apple.com/apsl/
+[Apple-Silicon-Shield]: https://img.shields.io/badge/Apple-Silicon_M2-999999?style=for-the-badge&logo=apple&logoColor=white
+[Apple-Silicon-Shield-url]: https://support.apple.com/en-us/HT211814
 
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://www.mit.edu/~amini/LICENSE.md
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]:https://www.linkedin.com/in/blaze-wheeler-8306a2223/
+[GitHub-shield]: 	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/blazeWheeler
+[product-screenshot]: images/screenshot.png
+[MacOs]:https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+[MacOs-url]: https://www.apple.com/macos/ventura/
 <br>
 
 <!-- RAINBOW LINE BOT -->
