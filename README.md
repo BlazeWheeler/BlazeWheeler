@@ -13,7 +13,7 @@
 <!-- Table Of Contents -->
 <h1>Table Of Contents 📖 </h1>
 
-- ###  <ins><a href="https://github.com/BlazeWheeler/Swift_Projects">Swift Projects</a></ins>
+- ###  <ins><a href="https://github.com/BlazeWheeler/Swift_Projects">Swift Projects</a></ins> ###
 
 	* [Calc++ (Photo Vault)](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Calc%2B%2B_PhotoVault%20)
 	*  [Icasino](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Icasino)
