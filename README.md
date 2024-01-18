@@ -3,11 +3,12 @@
 
 
 
- ![Duq-badge](https://custom-icon-badges.demolab.com/badge/-Duquesne%20University-ba0c2f?style=for-the-badge&logo=duquesne_dukes_logo1)  ![CCAC-Badge](https://custom-icon-badges.demolab.com/badge/-Community%20College%20of%20Allegheny%20County-black?style=for-the-badge&logo=comp-md-square-ccac-sealblack2)
+ [![Duquense-Shield][Duquesne-Shield]][Duquesne-url]  ![CCAC-Badge](https://custom-icon-badges.demolab.com/badge/-Community%20College%20of%20Allegheny%20County-black?style=for-the-badge&logo=comp-md-square-ccac-sealblack2)
 
 [![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
 [![MIT License][license-shield]][license-url]
 [![Apple License][Apple-License]][Apple-License-url]
+
 
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
 
@@ -164,6 +165,9 @@
 [product-screenshot]: images/screenshot.png
 [MacOs]:https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 [MacOs-url]: https://www.apple.com/macos/ventura/
+
+[Duquesne-Shield]: https://custom-icon-badges.demolab.com/badge/-Duquesne%20University-ba0c2f?style=for-the-badge&logo=duquesne_dukes_logo1
+[Duquesne-url]: https://duq.edu
 <br>
 
 <!-- RAINBOW LINE BOT -->
