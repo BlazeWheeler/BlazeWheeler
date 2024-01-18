@@ -7,6 +7,58 @@
 </div>
 <h1 align="center">I'm <a href="https://github.com/blazewheeler">Blaze Wheeler<a><img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/wave.gif" width="60px"/></h1>
 <Br>
+
+
+
+<!-- Table Of Contents -->
+<h1>Table of contents 📖</h1>
+
+- ###  <ins><a href="https://github.com/BlazeWheeler/Swift_Projects"> Swift_Projects </a></ins>
+	* [Calc++ (Photo Vault)](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Calc%2B%2B_PhotoVault%20)
+	*  [Icasino](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Icasino)
+	*  [PhotoFilters](https://github.com/BlazeWheeler/Swift_Projects/tree/main/PhotoFilters)
+	*  [Swift-Matrix-Rain](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Swift-Matrix-Rain)
+	*  [Swift_Many_Socials](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Swift_Many_Socials)
+	*  [Tic-Tac-Toe](https://github.com/BlazeWheeler/Swift_Projects/tree/main/Tic-Tac-Toe)
+
+
+- ###  <ins><a href=" https://github.com/BlazeWheeler/Android-Projects"> Android Projects </a></ins>
+	*  [Android Boot Camp (CIT-264)](https://github.com/BlazeWheeler/Android-Projects/tree/main/CIT-264)
+	*  [Smart Mirror](https://github.com/BlazeWheeler/Android-Projects/tree/main/SmartMirror)
+	*  [Java Mailer](https://github.com/BlazeWheeler/Android-Projects/tree/main/CIT-264)
+
+
+
+- ###  <ins><a href=" https://github.com/BlazeWheeler/Starting_Out_With_Java/tree/main"> Starting Out With Java (CIT-111,CIT-115,CIT-244) </a></ins>
+	*  [Online Chapters](https://github.com/BlazeWheeler/Starting_Out_With_Java/tree/main/Book%20Source%20Code/Online%20Chapters)
+	*  [Text Source Code](https://github.com/BlazeWheeler/Starting_Out_With_Java/tree/main/Book%20Source%20Code)
+	*  [Programming Challenges](https://github.com/BlazeWheeler/Starting_Out_With_Java/tree/main/Programming%20Challenges)
+
+
+- ###  <ins><a href="https://github.com/BlazeWheeler/Web-Dev-Projects"> Web Development </a></ins>
+	*  [FacebookClone](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/FacebookClone)
+	* [InstaClone](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/Instaclone)
+	* [LinkTree_Template](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/LinkTree_Template)
+	* [ThreeJS-Landing-Page](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/ThreeJS-Landing-Page-main)
+	* [YoutubeConvertMP3](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/YoutubeConvertMP3)
+
+
+- ###  <ins><a href="https://github.com/BlazeWheeler/CyberSecurity"> Cyber Security </a></ins>
+	* [InstaPhisher](https://github.com/BlazeWheeler/CyberSecurity/tree/main/InstaPhisher)
+
+
+
+
+- ###  <ins><a href="https://github.com/BlazeWheeler/Augmented-Reality-Projects"> Augmented Reality Projects </a></ins>
+	*  [SparkAR Projects](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR)
+		*  [Rap Pokemon](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR/Rap%20Pokemon)
+
+ - ### UX/UI
+
+	* [Glow Gato](https://github.com/BlazeWheeler/GlowGato)
+<h1></h1>
+
+
 <h1>About Me! 😎</h1>
 
 
@@ -22,6 +74,19 @@
 - 🧑🏼‍💻 Pronouns: He/Him
 
 - 🏒 Fun fact: **Student athlete**:  [Duquesne University Mens Ice Hockey](http://duquesnehockey.pointstreaksites.com/view/duquesnehockey/)
+
+
+
+	
+
+
+
+
+
+
+	
+
+
 
 
 - 📫 How to reach me **wheelerb2@duq.edu**
@@ -120,27 +185,8 @@
 <br>
 
 
-<h1> Quote xD </h1>
 
- ```sh
-
-bool dead = false;
-void goDeeper()
-{ 
-    if(dead == true)
-       return; 
-	
-    goDeeper();
-}
-
-int main()
-{
-    goDeeper();
-}
-
-
-
-  ```
+  
 
 
 
