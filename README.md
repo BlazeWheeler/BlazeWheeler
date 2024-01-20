@@ -1,6 +1,6 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
- [![Duquense-Shield][Duquesne-Shield]][Duquesne-url]  [![CCAC-Shield][CCAC-Shield]][CCAC-url] 
+[![Duquense-Shield][Duquesne-Shield]][Duquesne-url]  [![CCAC-Shield][CCAC-Shield]][CCAC-url] 
 [![MIT License][license-shield]][license-url]
 [![Apple License][Apple-License]][Apple-License-url]
 
@@ -167,6 +167,7 @@
 
 [CCAC-Shield]: https://custom-icon-badges.demolab.com/badge/-Community%20College%20of%20Allegheny%20County-black?style=for-the-badge&logo=comp-md-square-ccac-sealblack2 
 [CCAC-url]: https://www.ccac.edu/
+
 <br>
 
 <!-- RAINBOW LINE BOT -->
