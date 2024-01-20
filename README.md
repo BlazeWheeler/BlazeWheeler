@@ -4,8 +4,9 @@
  [![Duquense-Shield][Duquesne-Shield]][Duquesne-url]  [![CCAC-Shield][CCAC-Shield]][CCAC-url] 
 
 [![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
-[![MIT License][license-shield]][license-url]
 [![Apple License][Apple-License]][Apple-License-url]
+[![MIT License][license-shield]][license-url]
+
 
 
 <img src="https://github.com/BlazeWheeler/BlazeWheeler/blob/main/assets/line-neon.gif" width="100%">
