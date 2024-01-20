@@ -155,7 +155,7 @@
 [Apple-Silicon-Shield-url]: https://support.apple.com/en-us/HT211814
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://www.mit.edu/~amini/LICENSE.md
+[license-url]: https://opensource.org/license/mit/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 [linkedin-url]:https://www.linkedin.com/in/blaze-wheeler-8306a2223/
