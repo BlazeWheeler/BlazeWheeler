@@ -64,7 +64,7 @@
 	*  [SparkAR Projects](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR)
 		*  [Rap Pokemon](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR/Rap%20Pokemon)
 
- - ### UX/UI
+ - ### Stand-aline Projects
 
 	* [Glow Gato](https://github.com/BlazeWheeler/GlowGato)
 <h1></h1>
