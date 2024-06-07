@@ -74,17 +74,17 @@
 
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Duquesne University](https://www.duq.edu)
+- 📚 I am recent graduate from [Duquesne University](https://www.duq.edu)
 
-- 🖥 I double major in **Computer Science** & **Cybersecurity**
+- 🖥  **Computer Science** & **Cybersecurity** major
 
 - 👨‍🔧 I’m currently learning Augmented & Virtual Reality Filters using **SparkAR** & **Lens Studio**
 
-- 📱 I’m currently working on native mobile applications in **Swift** & **Kotlin**
+- 📱 I’m currently working on native mobile applications in **Kotlin**
 
 - 🧑🏼‍💻 Pronouns: He/Him
 
-- 🏒 Fun fact: **Student athlete**:  [Duquesne University Mens Ice Hockey](http://duquesnehockey.pointstreaksites.com/view/duquesnehockey/)
+- 🏒 Fun fact: Proud ACHA Hockey Alum  [Duquesne University Mens Ice Hockey](http://duquesnehockey.pointstreaksites.com/view/duquesnehockey/)
 
 
 
