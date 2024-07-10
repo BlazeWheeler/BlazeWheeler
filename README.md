@@ -4,8 +4,6 @@
  [![Duquense-Shield][Duquesne-Shield]][Duquesne-url]  [![CCAC-Shield][CCAC-Shield]][CCAC-url] 
 
 [![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
-[![Apple License][Apple-License]][Apple-License-url]
-[![MIT License][license-shield]][license-url]
 
 
 
