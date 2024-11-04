@@ -50,7 +50,7 @@
 	* [LinkTree_Template](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/LinkTree_Template)
 	* [ThreeJS-Landing-Page](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/ThreeJS-Landing-Page-main)
 	* [YoutubeConvertMP3](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/YoutubeConvertMP3)
-	  [Email Signature Template](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/EmailSignature)
+	* [Email Signature Template](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/EmailSignature)
 
 
 - ###  <ins><a href="https://github.com/BlazeWheeler/CyberSecurity"> Cyber Security </a></ins>
@@ -61,7 +61,7 @@
 
 - ###  <ins><a href="https://github.com/BlazeWheeler/Augmented-Reality-Projects"> Augmented Reality Projects </a></ins>
 	*  [SparkAR Projects](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR)
-		*  [Rap Pokemon](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR/Rap%20Pokemon)
+	*  [Rap Pokemon](https://github.com/BlazeWheeler/Augmented-Reality-Projects/tree/main/SparkAR/Rap%20Pokemon)
 
  - ### Stand-alone Projects
 
@@ -79,11 +79,11 @@
 
 - 👨‍🔧 I’m currently learning Augmented & Virtual Reality Filters using **SparkAR** & **Lens Studio**
 
-- 📱 I’m currently working on native mobile applications in **Kotlin**
+- 📱 I’m currently working at American Eagle as a BC/DR Analyst
 
 - 🧑🏼‍💻 Pronouns: He/Him
 
-- 🏒 Fun fact: Proud ACHA Hockey Alum  [Duquesne University Mens Ice Hockey](http://duquesnehockey.pointstreaksites.com/view/duquesnehockey/)
+- 🏒 Fun fact: ACHA Hockey Alum  [Duquesne University Mens Ice Hockey](http://duquesnehockey.pointstreaksites.com/view/duquesnehockey/)
 
 
 
