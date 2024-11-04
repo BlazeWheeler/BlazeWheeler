@@ -50,6 +50,7 @@
 	* [LinkTree_Template](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/LinkTree_Template)
 	* [ThreeJS-Landing-Page](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/ThreeJS-Landing-Page-main)
 	* [YoutubeConvertMP3](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/YoutubeConvertMP3)
+	  [Email Signature Template](https://github.com/BlazeWheeler/Web-Dev-Projects/tree/main/EmailSignature)
 
 
 - ###  <ins><a href="https://github.com/BlazeWheeler/CyberSecurity"> Cyber Security </a></ins>
