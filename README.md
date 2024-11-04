@@ -99,7 +99,7 @@
 
 
 
-- 📫 How to reach me **wheelerb2@duq.edu**
+- 📫 How to reach me **support@blazew.me**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
