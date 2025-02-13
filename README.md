@@ -99,7 +99,7 @@
 
 
 
-- 📫 How to reach me **support@blazew.me**
+- 📫 How to reach me **blaze@blazew.me**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
