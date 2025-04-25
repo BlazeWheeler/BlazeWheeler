@@ -73,13 +73,13 @@
 
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am recent graduate from [Duquesne University](https://www.duq.edu)
+- 📚 Graduate from [Duquesne University](https://www.duq.edu)
 
 - 🖥  **Computer Science** & **Cybersecurity** major
 
-- 👨‍🔧 I’m currently learning Augmented & Virtual Reality Filters using **SparkAR** & **Lens Studio**
+- - 📱 I’m currently working at Cybersecurity Specialist for the City of Pittsburgh
 
-- 📱 I’m currently working at American Eagle as a BC/DR Analyst
+- 👨‍🔧 I’m currently learning Augmented & Virtual Reality Filters using **SparkAR** & **Lens Studio**
 
 - 🧑🏼‍💻 Pronouns: He/Him
 
